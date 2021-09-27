@@ -1,0 +1,14 @@
+body{
+ color:black;
+ background-color: white;
+}
+
+.heading{
+    width:80%;
+    font-size: 22px;
+    color:yellowgreen;
+}
+
+.warning{
+    color:red
+}
